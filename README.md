@@ -1,1 +1,1 @@
-# greavity
+# gravity
